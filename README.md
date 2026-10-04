@@ -7,6 +7,7 @@ A simple Python web scraper that compares LEGO set prices across three mock stor
 - Marget
 
 The program fetches product data from each storefront, lets the user enter a LEGO set number, and then shows the available prices sorted from cheapest to most expensive.
+Find store code at https://github.com/Joshwalks7/LEGO-My-Wallet
 
 ## What it does
 
